@@ -1,0 +1,22 @@
+{
+  "decimals": 0,
+  "isBooleanAmount": true,
+  "name": "pipinftI",
+  "description": "Pipi Cool Catz",
+  "tags": [
+    "Cool",
+    "Kiki"
+  ],
+  "minter": "tz1Miryg4mYhjwdpgvJwhx2qbxg7P5yFnXMZ",
+  "artifactUri": "ipfs://QmfJxrztzTChkkixWiiEwPjq2GJePgcWcaiZ6ojPG9x3SS",
+  "displayUri": "ipfs://QmfJxrztzTChkkixWiiEwPjq2GJePgcWcaiZ6ojPG9x3SS",
+  "thumbnailUri": "ipfs://QmfJxrztzTChkkixWiiEwPjq2GJePgcWcaiZ6ojPG9x3SS",
+  "creators": [],
+  "rights": "Few",
+  "attributes": [
+    {
+      "name": "Kiki ONe",
+      "value": "Fast One"
+    }
+  ]
+}
